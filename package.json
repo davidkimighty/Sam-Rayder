@@ -1,0 +1,21 @@
+{
+    "name": "com.davidkimighty.sam-rayder",
+    "version": "0.1.0",
+    "displayName": "Sam Rayder",
+    "description": "Ray marching shader in Unity",
+    "unity": "2023.3",
+    "author": {
+        "name": "Hyunwoo Kim",
+        "email": "davidkimighty@gmail.com"
+    },
+    "dependencies": {
+        
+    },
+    "samples": [
+        {
+            "displayName": "Basic Sphere",
+            "description": "SDF Sphere",
+            "path": "Samples~/BasicSphere"
+        }
+    ]
+}
